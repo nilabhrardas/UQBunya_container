@@ -77,9 +77,10 @@ As of 19.06.2025, the following packages are installed and working on the develo
 - CHOIR
 - monocle3
 - Seurat
+- scRNAseq
 
 #### To-be-installed packages 
-- scRNAseq
+- 
 
 ### R-4.3.2
 #### Installed packages
